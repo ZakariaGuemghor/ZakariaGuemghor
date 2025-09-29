@@ -54,7 +54,7 @@ Je transforme des problématiques financières complexes en solutions automatis�
 
 *   **Modélisation Quantitative :** Modèles de prévision de séries temporelles (Machine Learning, GARCH, SARIMAX, LSTM), simulations de Monte Carlo, pricing d'options.
 *   **Gestion des Risques :** Calcul et application de la Value at Risk (VaR) et Expected Shortfall (ES), modélisation du risque de crédit (solvabilité), stratégies de couverture (Delta Hedging).
-*   **Asset Management :** Modèles factoriels (Fama-French), optimisation de portefeuille (Moyenne-Variance), analyse de performance.
+*   **Gestion d'Actifs :** Modèles factoriels (Fama-French), optimisation de portefeuille (Moyenne-Variance), analyse de performance.
 *   **Stack Technique :**
     *   **Langages :** Python, SQL
     *   **Bibliothèques Clés :** Pandas, NumPy, Scikit-learn, Statsmodels, Arch, TensorFlow/Keras
