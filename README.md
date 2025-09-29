@@ -2,12 +2,12 @@
 <div align="center">
 
   <!-- ================================================================================================================== -->
-  <!-- 1. VOTRE BANNIÈRE PERSONNALISÉE -->
-  <!-- Créez une bannière simple sur canva.com et collez le lien de l'image ici -->
-  <a href="https://www.linkedin.com/in/zakariaguemghor/">
-    <img src="[https://imgur.com/a/r93MxLc](https://imgur.com/a/r93MxLc).png" alt="Bannière de profil - Finance Quantitative" width="850px">
-  </a>
-  <br>
+<!-- 1. VOTRE BANNIÈRE PERSONNALISÉE -->
+<!-- Créez une bannière simple sur canva.com et collez le lien de l'image ici -->
+<a href="https://www.linkedin.com/in/zakariaguemghor/">
+  <img src="https://i.imgur.com/r93MxLc.png" alt="Bannière de profil - Finance Quantitative" width="850px">
+</a>
+<br>
   <!-- ================================================================================================================== -->
   <!-- 2. VOTRE TITRE PRINCIPAL -->
   <h1>
