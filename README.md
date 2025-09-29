@@ -4,6 +4,7 @@
   <!-- ================================================================================================================== -->
 <!-- 1. VOTRE BANNIÈRE PERSONNALISÉE -->
 <div align="center">
+    <a href="https://www.linkedin.com/in/zakariaguemghor/">
     <img src="https://i.imgur.com/7MuUFtI.jpeg" alt="Bannière de profil - Finance Quantitative" width="850px">
   </a>
   <br>
