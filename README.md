@@ -1,10 +1,49 @@
-### Bonjour, je suis Zakaria Guemghor 👋
+<!-- Bloc centré pour les images et le titre -->
+<div align="center">
 
-**Analyste Quantitatif | Master 2 Finance & Asset Management | Ingénieur en Finance Décisionnelle**
+  <!-- ================================================================================================================== -->
+  <!-- 1. VOTRE BANNIÈRE PERSONNALISÉE -->
+  <!-- Créez une bannière simple sur canva.com et collez le lien de l'image ici -->
+  <a href="https://www.linkedin.com/in/zakariaguemghor/">
+    <img src="https://i.imgur.com/uGea8S3.png" alt="Bannière de profil - Finance Quantitative" width="850px">
+  </a>
+  <br>
 
+  <!-- ================================================================================================================== -->
+  <!-- 2. VOTRE TITRE PRINCIPAL -->
+  <h1>
+    Bonjour, je suis Zakaria Guemghor 👋
+  </h1>
+
+  <!-- ================================================================================================================== -->
+  <!-- 3. VOTRE SOUS-TITRE AVEC VOS DOMAINES D'EXPERTISE -->
+  <h3>
+    📈 Analyste Quantitatif | Gestion d'Actifs | Gestion des Risques
+  </h3>
+
+  <!-- ================================================================================================================== -->
+  <!-- 4. VOS BADGES SOCIAUX ET STATISTIQUES -->
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/zakariaguemghor/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <!-- Email Badge -->
+  <a href="mailto:zakaria.guemghor@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <!-- Compteur de Vues -->
+  <a href="https://github.com/ZakariaGuemghor">
+    <img src="https://komarev.com/ghpvc/?username=ZakariaGuemghor&style=for-the-badge&color=0066CC" alt="Profile Views"/>
+  </a>
+  
+</div>
+
+<!-- ================================================================================================================== -->
+<!-- Ligne de séparation -->
 ---
 
-👨‍💻 **À Propos de Moi**
+<!-- Le reste de votre README commence ici -->
+### 👨‍💻 À Propos de Moi
 
 Actuellement en Master 2 à l'Université Paris 1 Panthéon-Sorbonne et diplômé d'un cycle ingénieur, je suis passionné par l'intersection de la finance de marché, des mathématiques appliquées et de la technologie. Mon expérience se concentre sur la modélisation prédictive, la gestion du risque de change et l'évaluation quantitative d'actifs.
 
