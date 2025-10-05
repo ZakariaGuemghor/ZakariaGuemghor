@@ -12,7 +12,7 @@
   <!-- ================================================================================================================== -->
   <!-- 2. VOTRE TITRE PRINCIPAL -->
   <h1>
-    Bonjour, je suis Zakaria Guemghor 👋
+    Bonjour, je suis Zakaria Guemghor <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </h1>
 
   <!-- ================================================================================================================== -->
