@@ -44,6 +44,6 @@
 
 <!-- Le reste de votre README commence ici -->
 ### 👨‍💻 À Propos de Moi
-Fraîchement diplômé d’un Master 2 en Finance et Asset Management à l’Université Paris 1 Panthéon-Sorbonne, et titulaire d’un diplôme d’Ingénieur d’État en Finance et Ingénierie Décisionnelle, mon profil combine une formation solide en finance de marché à des compétences techniques avancées en programmation (Python, SQL), machine learning et modélisation quantitative (pricing, gestion d’actifs, gestion des risques, analyse de données).
+Diplômé d’un Master 2 en Finance et Asset Management à l’Université Paris 1 Panthéon-Sorbonne, et titulaire d’un diplôme d’Ingénieur d’État en Finance et Ingénierie Décisionnelle, mon profil combine une formation solide en finance de marché à des compétences techniques avancées en programmation (Python, SQL), machine learning et modélisation quantitative (pricing, gestion d’actifs, gestion des risques, analyse de données).
 
 Je transforme des problématiques financières complexes en solutions automatisées et data-driven, du développement de modèles à la création d'outils d'aide à la décision interactifs avec Streamlit et Tableau.
