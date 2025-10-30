@@ -12,7 +12,7 @@
   <!-- ================================================================================================================== -->
   <!-- 2. VOTRE TITRE PRINCIPAL -->
   <h1>
-    Bienvenue sur Mon Portfolio <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+    Bienvenue sur mon portfolio ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </h1>
 
   <!-- ================================================================================================================== -->
