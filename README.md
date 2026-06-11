@@ -18,7 +18,7 @@
   <!-- ================================================================================================================== -->
   <!-- 3. VOTRE SOUS-TITRE AVEC VOS DOMAINES D'EXPERTISE -->
   <h3>
-    📈 Gestion d'Actifs | Gestion des Risques | Analyste Investissement
+    📈 Gestion d'Actifs | Gestion des Risques | Analyse Quantitative
   </h3>
 
   <!-- ================================================================================================================== -->
