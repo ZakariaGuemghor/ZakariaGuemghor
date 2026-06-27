@@ -37,8 +37,8 @@
   </a>
 
   <!-- CV Badge -->
-  <a href="https://raw.githubusercontent.com/ZakariaGuemghor/ZakariaGuemghor/main/CV_Zakaria_Guemghor.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-Télécharger-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  <a href="https://docs.google.com/gview?embedded=true&url=https://raw.githubusercontent.com/ZakariaGuemghor/ZakariaGuemghor/main/CV_Zakaria_Guemghor.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV-Voir%20le%20CV-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </div>
 
