@@ -38,7 +38,7 @@
 
   <!-- CV Badge -->
   <a href="https://raw.githubusercontent.com/ZakariaGuemghor/ZakariaGuemghor/main/assets/CV_Zakaria_Guemghor.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-Voir%20le%20CV-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <img src="https://img.shields.io/badge/CV-Voir%20le%20CV-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=green" />
   </a>
 </div>
 
