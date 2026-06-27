@@ -1,5 +1,8 @@
 <!-- Bloc centré pour les images et le titre -->
 <div align="center">
+<br>
+<br>
+</div>
 
   <!-- ================================================================================================================== -->
 <!-- 1. VOTRE BANNIÈRE PERSONNALISÉE -->
